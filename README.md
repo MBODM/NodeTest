@@ -5,7 +5,7 @@ A simple Node.js test app.
 The solely purpose of this Node.js app is to
 - show routes
 - show modules
-- show Javascript ES6 template strings (backticks -> `hello ${name}`)
+- show Javascript ES6 template strings (backticks -> ``hello ${name}``)
 
 app.js
 ![Alt text](/screenshots/app.png?raw=true "app.js")
