@@ -1,5 +1,5 @@
 # NodeTest
-A simple Node.js test app.
+A simple Node.js test app
 
 <br/>
 
